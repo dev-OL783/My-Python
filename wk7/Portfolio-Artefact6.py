@@ -1,3 +1,0 @@
-import requests
-
-url = "http://localhost:11434/api/chat"
